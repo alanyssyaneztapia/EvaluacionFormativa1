@@ -1,0 +1,27 @@
+body{
+
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:palevioletred;
+}
+
+.tabla {
+
+    color: #a50d40;
+    border: 1px solid #1f4baa;
+    background-color: #0adffc;
+    height: 190px;
+    width: 400px;
+    
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+
+}
+
